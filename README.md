@@ -1,4 +1,4 @@
-# 3DBot
+# 3D_Bot
 
 > A professional-grade [Next.js](https://nextjs.org/) application for modern web experiences.
 
